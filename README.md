@@ -4,10 +4,10 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Gatsby's antd starter
 </h1>
 
-Kick off your project with this default boilerplate. This barebones starter ships with the main Gatsby configuration files you might need. 
+Kick off your project with this antd boilerplate. This barebones starter ships with the main Gatsby configuration files you might need + the [Antd component library](https://ant.design/).
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
@@ -24,11 +24,11 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
 2.  **Create a Gatsby site.**
 
-    Use the Gatsby CLI to create a new site, specifying the default starter.
+    Use the Gatsby CLI to create a new site, specifying the antd starter.
 
     ```sh
-    # create a new Gatsby site using the default starter
-    gatsby new my-default-starter
+    # create a new Gatsby site using the antd starter
+    gatsby new antd-starter https://github.com/cardiv/gatsby-starter-antd
     ```
 
 3.  **Start developing.**
@@ -36,7 +36,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     Navigate into your new site’s directory and start it up.
 
     ```sh
-    cd my-default-starter/
+    cd antd-starter/
     gatsby develop
     ```
 
@@ -46,7 +46,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     
     *Note: You'll also see a second link: `http://localhost:8000/___graphql`. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).*
     
-    Open the the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+    Open the `antd-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
     
 ## 🧐 What's inside?
 
