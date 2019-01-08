@@ -7,6 +7,7 @@ import Image from '../components/image'
 import SEO from '../components/seo'
 
 const IndexPage = (props) => {
+  console.info(props)
   return (
     <Layout>
       <SEO title="Home" keywords={['gatsby', 'application', 'react']} />
